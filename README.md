@@ -1,6 +1,10 @@
 # Getting Started with Todo list
 Hi again Here I am bringing this Todo List with super simplified UI 
- 
+
+Here is a preview of the program :
+![image](https://github.com/Harsh-kohli/Todo-List/assets/126774611/7e98c6de-fcca-450f-b507-e1b6178dcea6)
+
+
 Task It can perform:-
     - It can create, Delete, track your daily tasks
     - It can help managing schedule
